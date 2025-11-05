@@ -3,7 +3,7 @@
   "description": "AMOLED Rem theme",
   "authors": [
     {
-      "name": "wiwiichan",
+      "name": "Snow",
       "id": "725075745671479296"
     }
   ],
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://share.google/YCIzeS28eaXnKl4BB",
+    "url": "https://github.com/Snowzz0/Themes-Discord/blob/Bg/Rem.png",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
